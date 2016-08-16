@@ -1,0 +1,26 @@
+{
+  "name": "boostr",
+  "version": "1.0.0",
+  "description": "A steam idle booster with 2fa",
+  "main": "index.js",
+  "dependencies": {
+    "steam": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fillerix99/boostr.git"
+  },
+  "keywords": [
+    "boostr"
+  ],
+  "author": "Filip Nyquist <fillerix@fillerix.se> (http://lbry.slack.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fillerix99/boostr/issues"
+  },
+  "homepage": "https://github.com/Fillerix99/boostr#readme"
+}
